@@ -1,5 +1,7 @@
 # Oshop
 
+An organic shop E-commerce app built by Angular and deployed by Firebase.  
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
 ## Development server
